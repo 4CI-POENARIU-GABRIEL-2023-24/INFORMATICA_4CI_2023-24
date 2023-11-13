@@ -12,7 +12,7 @@ public class GiorniSettimana {
         Scanner input = new Scanner(System.in);
         int giorno;
         String[] settimana = {"lunedì", "martedì", "mercoledì", "giovedì",
-                               "venerdì", "sabato", "domenica"};
+                              "venerdì", "sabato", "domenica"};
 
         // input
         do {
